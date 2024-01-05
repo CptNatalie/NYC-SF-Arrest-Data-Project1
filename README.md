@@ -1,3 +1,3 @@
 # Hookers_n_Blow
-San Fransisco / New York City 2008/20017 arrest data.
+New York City vs San Fransisco 2008 arrest data.
 
