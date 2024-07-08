@@ -1,5 +1,5 @@
 # Arrest Data Mapping
-A statistical journey examining arrest data comparison of NYC and SF at Christmas 2008. Our analysis blends data exploration with a touch of humor:
+Examining arrest data comparison of NYC and SF at Christmas 2008 & 2017. Our analysis blends data exploration with a touch of humor:
  
 https://www.canva.com/design/DAF3lYQ-tNs/nUaSejSVxlBUXUWWZtxTfg/view?utm_content=DAF3lYQ-tNs&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel
 
